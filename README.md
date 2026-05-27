@@ -255,7 +255,7 @@ if (solution.isBeautiful) {
   Then uncomment the line below once the action has run once.
 -->
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/0sheetalkumari0/0sheetalkumari0/output/github-contribution-grid-snake-dark.svg) -->
+![Snake animation](https://raw.githubusercontent.com/0sheetalkumari0/0sheetalkumari0/output/github-contribution-grid-snake-dark.svg) 
 
 > *"consistency is the only proof of commitment"* &nbsp;·&nbsp; contribution graph, 365 days
 
